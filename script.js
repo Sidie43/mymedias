@@ -47,7 +47,7 @@ button2.addEventListener('click', () => {
   anim2.style.display = 'inline-block';
  
   setTimeout(() => {
-   window.open('https://motivation-master-class.systeme.io/formation', '_blank');
+   window.open('https://sidie43.github.io/Formation-Master-Class/', '_blank');
    text2.style.display = 'block';
    anim2.style.display = 'none';
   }, 2000);
@@ -135,6 +135,6 @@ button8.addEventListener('click', () => {
 
 
  function ouvreCompte() {
-  window.open('https://www.tiktok.com/@citations_et_histoire?_t=8rVFQwXhzuQ&_r=1', '_blank');
+  window.open('https://youtube.com/@citation-conseil-histoire?si=wjXz32DaKHnVaefL', '_blank');
  }
 
